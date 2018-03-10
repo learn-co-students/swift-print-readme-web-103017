@@ -5,7 +5,7 @@
 > Better to write for yourself and have no public, than to write for the public and have no self. ~[Cyril Connolly](https://en.wikipedia.org/wiki/Cyril_Connolly)
 
 ## Overview 
-
+ 
 We'll use the print function to print and output strings and variables to your screen.
 
 ## Learning Objectives
